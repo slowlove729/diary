@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/diary/static/js/main.3615eaec.js",
+    "index.html": "/diary/index.html",
+    "main.3615eaec.js.map": "/diary/static/js/main.3615eaec.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.3615eaec.js"
+  ]
+}
